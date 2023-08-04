@@ -1,0 +1,18 @@
+body{
+  background : url('https://i.pinimg.com/originals/a6/c2/ea/a6c2ea51ac1f3d947be8c1a39a3f3449.jpg');
+  background-size: cover;
+}
+
+h1{
+margin-top: 60px;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+margin-left: 250px;
+}
+.thanos{
+margin-left: 380px;
+margin-top: 10px;
+}
+button{
+  margin-left :510px;
+}
